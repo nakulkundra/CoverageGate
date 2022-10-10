@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CoverageGate": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Code\\Implementation\\CHUBB\\ChubbDevV2\\AdGo.Underwriting.Admin\\UnderwritingAdmin\\testReport.txt 23 1 1 1 "
+    }
+  }
+}

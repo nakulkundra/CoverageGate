@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+n+vDDIdxT+jDdi9wU91Grg87MblEdxpDux5mMZ7aoCx5AyDuyZTNo5WBL2dd7qzP61ViiDbJUVw0J2K4LGBmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nakul.kundra\\source\\repos\\CoverageGate\\CoverageGate\\CoverageGate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nakul.kundra\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\nakul.kundra\source\repos\CoverageGate\CoverageGate\bin\Debug\netcoreapp3.1\CoverageGate.exe
+C:\Users\nakul.kundra\source\repos\CoverageGate\CoverageGate\bin\Debug\netcoreapp3.1\CoverageGate.deps.json
+C:\Users\nakul.kundra\source\repos\CoverageGate\CoverageGate\bin\Debug\netcoreapp3.1\CoverageGate.runtimeconfig.json
+C:\Users\nakul.kundra\source\repos\CoverageGate\CoverageGate\bin\Debug\netcoreapp3.1\CoverageGate.runtimeconfig.dev.json
+C:\Users\nakul.kundra\source\repos\CoverageGate\CoverageGate\bin\Debug\netcoreapp3.1\CoverageGate.dll
+C:\Users\nakul.kundra\source\repos\CoverageGate\CoverageGate\bin\Debug\netcoreapp3.1\CoverageGate.pdb
+C:\Users\nakul.kundra\source\repos\CoverageGate\CoverageGate\obj\Debug\netcoreapp3.1\CoverageGate.csproj.AssemblyReference.cache
+C:\Users\nakul.kundra\source\repos\CoverageGate\CoverageGate\obj\Debug\netcoreapp3.1\CoverageGate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nakul.kundra\source\repos\CoverageGate\CoverageGate\obj\Debug\netcoreapp3.1\CoverageGate.AssemblyInfoInputs.cache
+C:\Users\nakul.kundra\source\repos\CoverageGate\CoverageGate\obj\Debug\netcoreapp3.1\CoverageGate.AssemblyInfo.cs
+C:\Users\nakul.kundra\source\repos\CoverageGate\CoverageGate\obj\Debug\netcoreapp3.1\CoverageGate.csproj.CoreCompileInputs.cache
+C:\Users\nakul.kundra\source\repos\CoverageGate\CoverageGate\obj\Debug\netcoreapp3.1\CoverageGate.dll
+C:\Users\nakul.kundra\source\repos\CoverageGate\CoverageGate\obj\Debug\netcoreapp3.1\CoverageGate.pdb
+C:\Users\nakul.kundra\source\repos\CoverageGate\CoverageGate\obj\Debug\netcoreapp3.1\CoverageGate.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Users\nakul.kundra\source\repos\CoverageGate\CoverageGate\bin\Release\netcoreapp3.1\publish2\CoverageGate.exe
+C:\Users\nakul.kundra\source\repos\CoverageGate\CoverageGate\bin\Release\netcoreapp3.1\publish2\CoverageGate.dll
+C:\Users\nakul.kundra\source\repos\CoverageGate\CoverageGate\bin\Release\netcoreapp3.1\publish2\CoverageGate.deps.json
+C:\Users\nakul.kundra\source\repos\CoverageGate\CoverageGate\bin\Release\netcoreapp3.1\publish2\CoverageGate.runtimeconfig.json
+C:\Users\nakul.kundra\source\repos\CoverageGate\CoverageGate\bin\Release\netcoreapp3.1\publish2\CoverageGate.pdb
